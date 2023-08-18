@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    font-family: tahoma;
+    
+
+}
+#logdapag{
+    background-color: aqua;
+}
+#logdapag p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+p a{
+    font-size: 18px;
+    color: #1d1d1d;
+   border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+#logdapag, .banner{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+.banner{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+.SEÇÃO-SOBRE, .SEÇÃO-SERVIÇOS, .SEÇÃO-CORRETORES, .SEÇÃO-CONTATO{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.SEÇÃO-SOBRE h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.SEÇÃO-SOBRE h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+.SEÇÃO-SOBRE img, .SEÇÃO-CORRETORES img{
+    width: 450px;
+}
+.SEÇÃO-SOBRE p, .SEÇÃO-CORRETORES p{
+    width: 980px;
+    text-align: justify;
+    margin: auto;
+}
+.SEÇÃO-SOBRE .texto-azul, h4, .SEÇÃO-CORRETORES .texto-azul{
+    color: #1d80c1;
+    font-weight: bolder;
+}
+.SEÇÃO-SERVIÇOS{
+    background-color: #1d80c1;
+}
+.SEÇÃO-SERVIÇOS .subtitle2, .SEÇÃO-CONTATO h5{
+    color: #ffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.SEÇÃO-SERVIÇOS p{
+    color: #ffff;
+    line-height: 42px;
+    font-size: 22px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.SEÇÃO-SERVIÇOS .texto-amarelo, .SEÇÃO-CONTATO .texto-amarelo{
+    color: #fff81b;
+}
+.SEÇÃO-SERVIÇOS ul{
+    margin: 40px auto;
+    width: 135px;
+
+}
+.SEÇÃO-SERVIÇOS ul li{
+    color: #ffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+
+
+}
+#logdapag img{
+    width: 150px;
+}
+.texto-negrito, .SEÇÃO-CONTATO .texto-amarelo, .SEÇÃO-SOBRE .texto-azul, .SEÇÃO-CORRETORES .texto-azul{
+    font-weight: bolder;
+}
+.SEÇÃO-CONTATO{
+    background-color: #1d80c0;
+
+}
+.SEÇÃO-CONTATO p{
+    color: #ffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px;
+}
+.SEÇÃO-CONTATO ul{
+    margin: 40px auto;
+    width: 210px;
+}
+.SEÇÃO-CONTATO ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.SEÇÃO-CONTATO ul li a{
+    background-color: #ffff;
+    color: #1d80c1;
+    padding: 2px ;
+    border-radius: 5px;
+    
+    
+
+}
+
+
+
